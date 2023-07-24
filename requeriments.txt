@@ -1,4 +1,4 @@
 requets
 re
 urllib
-urllib3
+colorama
