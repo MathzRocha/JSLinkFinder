@@ -1,4 +1,2 @@
-requets
-re
-urllib
-colorama
+requests==2.26.0
+colorama==0.4.4
